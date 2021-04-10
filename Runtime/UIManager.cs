@@ -12,7 +12,7 @@ namespace RP
 {
     public class UIManager : MonoBehaviour
     {
-        public const string Version = "0.0.1";
+        public const string Version = "0.0.2";
 
         private abstract class QueuedScreen
         {
