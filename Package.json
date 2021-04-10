@@ -1,0 +1,16 @@
+{
+  "name": "com.rp.uimanager",
+  "version": "0.0.1",
+  "displayName": "UI Manager",
+  "description": "A stack-based UI controller",
+  "unity": "2018.1",
+  "keywords": [
+    "uimanager",
+    "screen",
+    "popup"
+  ],
+  "author": {
+    "name": "Ramesh Poreddy",
+    "email": "ramesh.poreddy@gmail.com"
+  }
+}
